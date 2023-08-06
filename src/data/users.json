@@ -1,7 +1,1 @@
-[
-    {
-        "id": 1,
-        "email": "shayansyed712@gmail.com",
-        "password": "$2a$12$A5mKCfH9GpqCp41oVogOf.TWoQ78cSZIiDoZOevJ9aByfiy0zpE32"
-    }
-]
+[{"id":1,"email":"shayansyed712@gmail.com","password":"$2a$12$A5mKCfH9GpqCp41oVogOf.TWoQ78cSZIiDoZOevJ9aByfiy0zpE32"},{"id":2,"email":"ali@123","password":"$2a$12$fYwxLdT.v5O6GmlDVv5wV.rdm7LvP8jPveHctv2XZ6FLy36DWOQbS"}]
